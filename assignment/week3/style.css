@@ -1,1 +1,21 @@
-body{background-color:greenyellow}
+/*
+Css Cascading Styles Sheets
+     CSS Parts:
+     Selector
+     Rules: property & value
+
+*/
+
+#firstDiv {
+    background-color:blue;
+margin:10px;
+}
+#lastDiv{ background-color:green;
+
+
+}
+/*p{
+
+    color: black;
+    font-size:72px;
+}*/
