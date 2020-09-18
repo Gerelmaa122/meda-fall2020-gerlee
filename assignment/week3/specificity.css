@@ -1,0 +1,24 @@
+#first{
+   width:200px;
+   height:200px;
+}
+#second{
+    width:200px;
+    height:200px;
+ }
+ #third{
+    width:400px;
+    height:400px;
+ }
+ .green{
+     background-color:green;
+     border:solid 10px darkgreen;
+
+ }
+ .red{
+    background-color:red;
+}
+.purple{
+    background-color:purple;
+    background-color:blue;
+}
