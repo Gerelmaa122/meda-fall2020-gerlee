@@ -1,0 +1,46 @@
+div{
+    width:200px;
+    height:200px;
+    background-color:salmon;
+}
+footer div {
+    width:400px;
+    height:400px;
+    background-color:green;
+}
+header div{
+    width:100px;
+    height:200px;
+    background-color:red;
+}
+a{
+    color:purple;
+}
+div a{
+    color:green;
+}
+div p a {
+
+}
+p a {
+    color:yellow;
+}
+/*select all anchors which have an ancestor of paragraph,but this paragraph needs */
+div > div > p a{
+    color:white;
+}
+/*select  all paragraph ,and all anchors*/
+p > a{
+    font-size:24px;
+}
+/*select only the anchors with the bold class*/
+.bold{
+    text-decoration:overline;
+}
+a.bold{
+     font-weight:bold;
+ }
+ /*select all anchors which have an ancestor of paragraph,but this paragraph needs */
+ p#special-txt{
+
+ }
