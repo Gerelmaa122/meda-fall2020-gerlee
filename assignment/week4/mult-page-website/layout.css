@@ -1,23 +1,49 @@
+body {
+    background-color:lightgreen;
+}
+
 #container{
 margin-left:auto;
 margin-right:auto;
 width:700px;
 }
+
+#container header nav {
+    padding-top:157px;
+}
 #container header nav ul{
-    border:dashed green 1px;
+  /* border:dashed green 1px;*/
     padding-left:0;
-    width:275px;
+    width:350px;
     text-align:center;
     margin-left:auto;
     margin-right:auto;
+    margin-top:0;
+    margin-bottom:0;
+  
+    
 }
+/*Cover positions and anker sudo class for this section*/
 div#container header nav ul li {
-    border-style:dashed;
+  /* border-style:dashed;
     border-color:red;
-    border-width:1px;
-    display:inline;
-    margin-lift:10px;
-    margin-right:10px;
+    border-width:1px;*/
+    display:inline-block;
+    /*padding:10px;*/
+    background-color:lightgreen;
+    border-radius:5px;
+  
+} 
+#container header nav ul li a {
+    font-family:Arial;
+    line-height:32px;
+    display:inline-block;
+    height:32px;
+    padding-left:10px;
+    padding-right:10px;
+    color:white;
+    text-decoration:none;
+
 }
 header{
 height:200px;
@@ -27,12 +53,25 @@ background-color:blanchedalmond;
 main{
     background-color:gray;
     padding:20px;
-    vertical-align:middle
+    vertical-align:middle;
+}
+#home p,#home h1{
+        color:blue;
+    }
+#about p{
+    color:fuchsia;
+}
+h1{
+    color:Purple;
+}
+h2{
+    color:Dar;
 }
 footer{
   
     height:50px;
     background-color:green;
+
 }
 footer p {
     text-align:center;
