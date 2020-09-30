@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9027744"
-     inkscape:cx="480.2904"
-     inkscape:cy="299.14275"
+     inkscape:zoom="1.2179869"
+     inkscape:cx="504.0656"
+     inkscape:cy="327.00515"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -34,7 +34,7 @@
      units="px"
      inkscape:window-width="1252"
      inkscape:window-height="707"
-     inkscape:window-x="373"
+     inkscape:window-x="532"
      inkscape:window-y="24"
      inkscape:window-maximized="0" />
   <metadata
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -166,42 +166,42 @@
        y="75.523994"
        transform="matrix(0.9996734,-0.02555584,0.02694425,0.99963694,0,0)" />
     <ellipse
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.087735;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0662151;stroke-opacity:1"
        id="path851-8-3"
-       cx="116.35197"
-       cy="99.793068"
-       rx="1.3492454"
-       ry="1.2091537" />
+       cx="103.58971"
+       cy="99.412918"
+       rx="0.9798528"
+       ry="0.948376" />
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:4.89985px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.122498"
-       x="113.44907"
-       y="102.33659"
+       style="font-weight:bold;font-size:3.698px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.0924514"
+       x="105.14606"
+       y="97.909813"
        id="text2803-0-8"
-       transform="scale(1.0162529,0.98400703)"><tspan
+       transform="scale(0.97788368,1.0226165)"><tspan
          sodipodi:role="line"
          id="tspan2801-2-0"
-         x="113.44907"
-         y="102.33659"
-         style="font-size:2.61328px;stroke-width:0.122498">R</tspan></text>
+         x="105.14606"
+         y="97.909813"
+         style="font-size:1.97229px;stroke-width:0.0924514">R</tspan></text>
     <ellipse
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.087735;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0626082;stroke-opacity:1"
        id="path851-8-9"
-       cx="198.70689"
-       cy="61.546387"
-       rx="1.3492454"
-       ry="1.2091537" />
+       cx="194.68814"
+       cy="57.636246"
+       rx="0.92734873"
+       ry="0.895872" />
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:4.89985px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.122498"
-       x="194.48689"
-       y="63.468288"
+       style="font-weight:bold;font-size:3.49656px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.0874153"
+       x="198.16052"
+       y="57.072231"
        id="text2803-0-0"
-       transform="scale(1.0162529,0.98400703)"><tspan
+       transform="scale(0.97880377,1.0216552)"><tspan
          sodipodi:role="line"
          id="tspan2801-2-5"
-         x="194.48689"
-         y="63.468288"
-         style="font-size:2.61328px;stroke-width:0.122498">R</tspan></text>
+         x="198.16052"
+         y="57.072231"
+         style="font-size:1.86485px;stroke-width:0.0874153">R</tspan></text>
   </g>
 </svg>
