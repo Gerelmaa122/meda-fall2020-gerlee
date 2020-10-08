@@ -1,0 +1,44 @@
+var timer=setInterval(function(){
+
+},1000);
+//Synchronous
+console.log(1);
+console.log(2);
+console.log(3);
+
+
+//Asynchronous
+setTimeout(function() {
+    console.log(5);
+}, 5500);
+//setInterval(function(){
+ //   console.log("3 seconds have passed.");
+//},3000);
+
+console.log(6);
+
+//Closures
+
+var myGlobalVariable=100;
+
+function someFunction() {
+    var myLocalVariable=10;
+    console.log(myLocalVariable);  
+    console.log(myGlobalVariable);
+}
+someFunction();
+console.log(myGlobalVariable);
+
+// console.log(myLocalVariable); Cannot  access myLocalVariable because it is in a child scope.
+
+// If statement do not have scopes.
+if(true){
+// code to run 
+}
+if (false) { // programm does not work.
+
+}
+//Example
+//if(true) {
+ //   var crearted 
+//}
