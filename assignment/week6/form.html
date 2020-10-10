@@ -1,0 +1,67 @@
+<!Doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>HTML Form</title>
+<style>
+    textarea{
+
+    }
+    body{
+        background-color:lightblue;
+    }
+
+    form{
+        width:400px;
+    }
+
+    form > input{
+        font-family:Arial;
+        font-size:24px;
+        font-weight:bold;
+        background-color:green;
+        color:blue;
+        border-color:red;
+        border-style:solid;
+        border-width:1px;
+        border-radius:6px;
+        padding:12px;
+        margin:10px;
+    }
+    form>label{
+        font-faily:Arial;
+        font-size:24;
+        font-weight:bold;
+        color:red;
+    }
+    </style>
+
+</head>
+<body>
+   <form>
+       <textarea cols="40" rows="4"></textarea></br/>
+
+       <label for="firstname">FirstName:</label>
+       <input type="firstname" id="FirstName"/>
+       <label for="email">Email:</label>
+       <input type="email" id="email"/><br/>
+       <label for="">Password:</label>
+       <input type="password" id="password"/>
+
+      
+       <label for="emaillist">Please send me many emails:</label>
+       <input type="checkbox" id="emailist"/></br/>
+       <label for="favfood1">Pizza</label>
+       <input type="radio" name="favfood1"/>
+       <label for="favfood2">burger</label>
+       <input type="radio" name="favfood2"/>
+       <label for="favfood3">buuz</label>
+       <input type="radio" name="favfood3"/>
+   </br/>
+   <input type="reset"/>
+
+   <input type="submit"/></br/>
+    </form>
+
+</body>
+</html>
