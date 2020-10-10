@@ -84,7 +84,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76457761"
+     inkscape:zoom="0.7309362"
      inkscape:cx="400.69561"
      inkscape:cy="377.06288"
      inkscape:document-units="mm"
@@ -94,7 +94,7 @@
      inkscape:window-width="1252"
      inkscape:window-height="708"
      inkscape:window-x="26"
-     inkscape:window-y="24"
+     inkscape:window-y="23"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -104,7 +104,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -258,7 +258,7 @@
          id="tspan953"
          x="81.322128"
          y="107.62206"
-         style="stroke-width:0.264583">Portfolia</tspan></text>
+         style="stroke-width:0.264583">Portfolio</tspan></text>
     <text
        xml:space="preserve"
        id="text957"
