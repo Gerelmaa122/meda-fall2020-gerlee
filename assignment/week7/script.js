@@ -16,15 +16,22 @@ purpleButton.click(function(){
     //console.log("hello");
     $("#box").css("background-color","purple");
    });
- var aquaButton=$("#aqua-button");
- aquaButton.click(function(){
+ var greenButton=$("#green-button");
+ greenButton.click(function(){
 //console.log("clicked");
 //var brownButton=$("#brown-button");
 $("#box").css("background-color","brown");
+     $("#green-button").css("background-color","black");
+     $("#green-button").css("color","white");
+     $("#yellow-button").css("background-color","red");
  });
  $("#yellow-button").click(function(){
      $("#box").css("background-color","yellow");
      //console.log("clicked");
+ });
+ $("body").click(function(){
+    $("body").css("background-color","pink");
+
  });
   
 });
