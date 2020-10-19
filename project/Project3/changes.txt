@@ -1,0 +1,7 @@
+Hello Dear
+
+1.I took of the pink background-color from project.html=wireframe_skills.png because when i put back of the color pink and put images it's just too much which is hard to see it .
+
+2. I took also 3 icon logo from contact.html=wireframe_contact.png because i took facebook  logo because it's too personal and scare from cyber attack or unsafely and e-mail logo, linkedin logo i took because i put link next to the contact me form .
+
+3.I took of the pink color from index.html=wireframe_Home.png because if i put background image and also my portfolio pic button looks not nice that's why it's looks black and white which is classic i like it. Thank you.
